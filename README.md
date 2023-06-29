@@ -1,3 +1,1 @@
-Created text after aboba bug
-
-like a developer i make a main v2
+Here is my CV in html/css style
